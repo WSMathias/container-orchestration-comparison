@@ -18,7 +18,7 @@ We haven't found a centralized source of comparison between the different tools 
 |[**Docker Swarm Mode**][22]|[Docker][2]|[2016][71]|Active|[Apache License 2.0][4]|Yes|[2.4k+ Stars, 500+ Forks, 100+ Contributors][82]|
 |[**Kubernetes**][5]|[CNCF][6]|[2015][7]|Active|[Apache License 2.0][4]|From third parties|[67.5k+ Stars, 24.3k+ Forks, 2.7k+ Contributors][80]|
 |[**Mesos**][8]|[Apache Software Foundation][9]|[2016][10]|Active|[Apache License 2.0][4]|Yes|[4.5k+ Stars, 1.7k+ Forks, 300+ Contributors][83]|
-|[**Nomad**][11]|[Hashicorp][12]|N/A|Active|[Mozilla Public License 2.0][13]|Yes|[6.5k+ Stars, 1.1+ Forks, 390+ Contributors][84]|
+|[**Nomad**][11]|[Hashicorp][12]|[2015][11]|Active|[Mozilla Public License 2.0][13]|Yes|[6.5k+ Stars, 1.1+ Forks, 390+ Contributors][84]|
 
 
 ### Orchestrator features
